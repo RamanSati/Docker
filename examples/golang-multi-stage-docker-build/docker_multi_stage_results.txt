@@ -1,0 +1,7 @@
+REPOSITORY    TAG       IMAGE ID       CREATED         SIZE
+multi         latest    6a1252d6642f   2 minutes ago   1.83MB
+<none>        <none>    4bb514b71ef9   2 minutes ago   870MB
+single        latest    d7d4bd9e1d34   3 minutes ago   870MB
+<none>        <none>    b5f8fd4985a6   41 hours ago    513MB
+ubuntu        latest    ca2b0f26964c   5 weeks ago     77.9MB
+hello-world   latest    d2c94e258dcb   11 months ago   13.3kB
